@@ -1,0 +1,23 @@
+{
+  "image": "/home/rakumar/FR/test_dir/obama_and_biden.jpg",
+  "KNN": [
+    {
+      "prediction": "dfarre",
+      "probability": 0.86
+    },
+    {
+      "prediction": "djevan",
+      "probability": 0.57
+    }
+  ],
+  "SVM": [
+    {
+      "prediction": "dfarre",
+      "probability": 0.18
+    },
+    {
+      "prediction": "cowie",
+      "probability": 0.19
+    }
+  ]
+}

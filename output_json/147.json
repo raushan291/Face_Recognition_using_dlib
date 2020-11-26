@@ -1,0 +1,23 @@
+{
+  "image": "/home/rakumar/FR/save_image_from_video/147.jpg",
+  "KNN": [
+    {
+      "prediction": "djevan",
+      "probability": 0.57
+    },
+    {
+      "prediction": "djotto",
+      "probability": 0.71
+    }
+  ],
+  "SVM": [
+    {
+      "prediction": "djevan",
+      "probability": 0.19
+    },
+    {
+      "prediction": "djotto",
+      "probability": 0.2
+    }
+  ]
+}

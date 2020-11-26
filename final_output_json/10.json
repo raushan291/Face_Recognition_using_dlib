@@ -1,0 +1,11 @@
+{
+  "image": "/home/rakumar/FR/save_image_from_video/10.jpg",
+  "results": [
+    {
+      "status": "AUTHORIZED",
+      "prediction": "djotto",
+      "closest_distance": 0.33341575307422755,
+      "probability": 0.74
+    }
+  ]
+}

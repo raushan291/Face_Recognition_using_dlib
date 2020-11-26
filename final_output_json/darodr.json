@@ -1,0 +1,11 @@
+{
+  "image": "/home/rakumar/FR/test_dir/darodr.jpg",
+  "results": [
+    {
+      "status": "AUTHORIZED",
+      "prediction": "darodr",
+      "closest_distance": 0.0,
+      "probability": 0.81
+    }
+  ]
+}

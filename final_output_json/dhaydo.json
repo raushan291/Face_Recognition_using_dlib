@@ -1,0 +1,11 @@
+{
+  "image": "/home/rakumar/FR/test_dir/dhaydo.jpg",
+  "results": [
+    {
+      "status": "AUTHORIZED",
+      "prediction": "dhaydo",
+      "closest_distance": 0.0,
+      "probability": 0.93
+    }
+  ]
+}

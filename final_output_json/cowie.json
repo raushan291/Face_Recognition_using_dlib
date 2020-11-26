@@ -1,0 +1,11 @@
+{
+  "image": "/home/rakumar/FR/test_dir/cowie.jpg",
+  "results": [
+    {
+      "status": "AUTHORIZED",
+      "prediction": "cowie",
+      "closest_distance": 0.0,
+      "probability": 0.93
+    }
+  ]
+}

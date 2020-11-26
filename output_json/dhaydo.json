@@ -1,0 +1,15 @@
+{
+  "image": "/home/rakumar/FR/test_dir/dhaydo.jpg",
+  "KNN": [
+    {
+      "prediction": "dhaydo",
+      "probability": 1.0
+    }
+  ],
+  "SVM": [
+    {
+      "prediction": "dhaydo",
+      "probability": 0.73
+    }
+  ]
+}

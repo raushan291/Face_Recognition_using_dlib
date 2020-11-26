@@ -1,0 +1,15 @@
+{
+  "image": "/home/rakumar/FR/test_dir/obama.jpg",
+  "results": [
+    {
+      "status": "UNAUTHORIZED",
+      "knn_prediction": "adpoun",
+      "svm_prediction": "djevan",
+      "probability": 0.36,
+      "knn_closest_distance": 0.6496600700234773,
+      "svm_closest_distance": 0.63948220042892,
+      "knn_probability": 0.5,
+      "svm_probability": 0.19
+    }
+  ]
+}

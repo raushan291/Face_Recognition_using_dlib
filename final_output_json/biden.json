@@ -1,0 +1,11 @@
+{
+  "image": "/home/rakumar/FR/test_dir/biden.jpg",
+  "results": [
+    {
+      "status": "UNAUTHORIZED",
+      "prediction": "UNKNOWN",
+      "closest_distance": 0.7003293807989059,
+      "probability": 0.39
+    }
+  ]
+}

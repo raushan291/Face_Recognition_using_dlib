@@ -1,0 +1,15 @@
+{
+  "image": "/home/rakumar/FR/test_dir/biden.jpg",
+  "KNN": [
+    {
+      "prediction": "dfarre",
+      "probability": 0.79
+    }
+  ],
+  "SVM": [
+    {
+      "prediction": "dfarre",
+      "probability": 0.17
+    }
+  ]
+}

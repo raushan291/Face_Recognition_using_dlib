@@ -1,0 +1,15 @@
+{
+  "image": "/home/rakumar/FR/test_dir/cowie.jpg",
+  "KNN": [
+    {
+      "prediction": "cowie",
+      "probability": 1.0
+    }
+  ],
+  "SVM": [
+    {
+      "prediction": "cowie",
+      "probability": 0.73
+    }
+  ]
+}

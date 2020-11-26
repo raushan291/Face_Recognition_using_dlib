@@ -1,0 +1,15 @@
+{
+  "image": "/home/rakumar/FR/test_dir/adpoun.jpg",
+  "KNN": [
+    {
+      "prediction": "adpoun",
+      "probability": 1.0
+    }
+  ],
+  "SVM": [
+    {
+      "prediction": "adpoun",
+      "probability": 0.73
+    }
+  ]
+}

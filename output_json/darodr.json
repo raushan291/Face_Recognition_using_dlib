@@ -1,0 +1,15 @@
+{
+  "image": "/home/rakumar/FR/test_dir/darodr.jpg",
+  "KNN": [
+    {
+      "prediction": "darodr",
+      "probability": 1.0
+    }
+  ],
+  "SVM": [
+    {
+      "prediction": "darodr",
+      "probability": 0.24
+    }
+  ]
+}

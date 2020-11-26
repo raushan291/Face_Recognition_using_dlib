@@ -1,0 +1,104 @@
+[
+  {
+    "image": "/home/rakumar/FR/test_dir/biden.jpg",
+    "results": [
+      {
+        "status": "UNAUTHORIZED",
+        "prediction": "UNKNOWN",
+        "closest_distance": 0.7003293807989059,
+        "probability": 0.39
+      }
+    ]
+  },
+  {
+    "image": "/home/rakumar/FR/test_dir/adpoun.jpg",
+    "results": [
+      {
+        "status": "AUTHORIZED",
+        "prediction": "adpoun",
+        "closest_distance": 0.0,
+        "probability": 0.93
+      }
+    ]
+  },
+  {
+    "image": "/home/rakumar/FR/test_dir/cowie.jpg",
+    "results": [
+      {
+        "status": "AUTHORIZED",
+        "prediction": "cowie",
+        "closest_distance": 0.0,
+        "probability": 0.93
+      }
+    ]
+  },
+  {
+    "image": "/home/rakumar/FR/test_dir/djotto.jpg",
+    "results": [
+      {
+        "status": "AUTHORIZED",
+        "prediction": "djotto",
+        "closest_distance": 0.0,
+        "probability": 0.93
+      }
+    ]
+  },
+  {
+    "image": "/home/rakumar/FR/test_dir/obama.jpg",
+    "results": [
+      {
+        "status": "UNAUTHORIZED",
+        "knn_prediction": "adpoun",
+        "svm_prediction": "djevan",
+        "probability": 0.36,
+        "knn_closest_distance": 0.6496600700234773,
+        "svm_closest_distance": 0.63948220042892,
+        "knn_probability": 0.5,
+        "svm_probability": 0.19
+      }
+    ]
+  },
+  {
+    "image": "/home/rakumar/FR/test_dir/dhaydo.jpg",
+    "results": [
+      {
+        "status": "AUTHORIZED",
+        "prediction": "dhaydo",
+        "closest_distance": 0.0,
+        "probability": 0.93
+      }
+    ]
+  },
+  {
+    "image": "/home/rakumar/FR/test_dir/obama_and_biden.jpg",
+    "results": [
+      {
+        "status": "UNAUTHORIZED",
+        "prediction": "UNKNOWN",
+        "closest_distance": 0.694525293961467,
+        "probability": 0.41
+      },
+      {
+        "status": "UNAUTHORIZED",
+        "knn_prediction": "djevan",
+        "svm_prediction": "cowie",
+        "probability": 0.27,
+        "knn_closest_distance": 0.8139226375135754,
+        "svm_closest_distance": 0.7424830918395842,
+        "knn_probability": 0.57,
+        "svm_probability": 0.19
+      }
+    ]
+  },
+  {
+    "image": "/home/rakumar/FR/test_dir/darodr.jpg",
+    "results": [
+      {
+        "status": "AUTHORIZED",
+        "prediction": "darodr",
+        "closest_distance": 0.0,
+        "probability": 0.81
+      }
+    ]
+  }
+]
